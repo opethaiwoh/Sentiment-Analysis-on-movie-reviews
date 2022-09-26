@@ -3,7 +3,7 @@
 Sentiment Analysis helps data scientists to analyze any kind of data i.e., Business, Politics, Social Media, etc., For example, the IMDb dataset "movie_data.csv" file contains 25,000 highly polar ‘positive’ (12500) and ‘negative’ (12500) IMDB movie reviews (label negative review as ‘0’ and positive review as ‘1’).
 Similarly, “amazon_data.txt” and “yelp_data.txt” contain 1000 labeled negative review as ‘0’ and positive review as ‘1’
 
-##  Steps performed
+##  Steps
 
 a) Read all the above data files (.csv and .txt) in python Pandas DataFrame.
 
